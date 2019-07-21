@@ -1,16 +1,12 @@
 package com.example.julesbackend.model;
 
-import lombok.*;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.NonNull;
 
-import javax.persistence.Id;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Entity;
-
-@Entity
 @Data
 @NoArgsConstructor
 public class Car {
-    @Id @GeneratedValue
     private Long id;
 
     public Long getId() {
