@@ -2,44 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ced59839-eae1-49da-93ba-72ce83911563" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/MicroServiceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/model/Microservice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_199.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_10_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_23_2_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_3_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_8_RELEASE.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jules-dashboard/src/app/route-animation.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jules-backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jules-backend/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/JulesBackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/JulesBackendApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/CarController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/model/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/repositories/CarRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/repositories/CarRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/MicroServiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/MicroServiceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/src/app/app.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/microservice/microservice.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/src/app/microservice/microservice.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/microservice/microservice.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/src/app/microservice/microservice.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/microservice/microservice.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/src/app/microservice/microservice.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/services/httpclient.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/services/httpclient.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/shared/car/car.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/src/app/shared/car/car.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jules-dashboard/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/jules-dashboard/src/styles.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/jules-backend/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,112 +41,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/JulesBackendApplication.java">
+        <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="210">
+              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding>
-                <element signature="e#328#336#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jules-backend/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/model/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" selection-start-line="26" selection-end-line="27" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/CarController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/MicroServiceController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/model/Microservice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-              <folding>
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#698#699#0" expanded="true" />
-                <element signature="e#732#733#0" expanded="true" />
-                <element signature="e#764#765#0" expanded="true" />
-                <element signature="e#802#803#0" expanded="true" />
-                <element signature="e#836#837#0" expanded="true" />
-                <element signature="e#873#874#0" expanded="true" />
-                <element signature="e#906#907#0" expanded="true" />
-                <element signature="e#944#945#0" expanded="true" />
-                <element signature="e#978#979#0" expanded="true" />
-                <element signature="e#1014#1015#0" expanded="true" />
-                <element signature="e#1046#1047#0" expanded="true" />
-                <element signature="e#1636#1637#0" expanded="true" />
-                <element signature="e#1731#1732#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/services/httpclient.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
+                <element signature="e#0#42#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -168,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="318">
+              <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
               <folding>
                 <element signature="e#0#56#0" expanded="true" />
               </folding>
@@ -178,22 +65,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.html">
+        <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/route-animation.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="380">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#120#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/repositories/CarRepository.java">
+        <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -208,6 +95,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scripts</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -216,20 +108,33 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/jules-dashboard/src/shared/car/car.service.ts" />
-        <option value="$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.ts" />
-        <option value="$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.html" />
-        <option value="$PROJECT_DIR$/jules-dashboard/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/jules-dashboard/src/app/shared/car/car.service.ts" />
         <option value="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/model/Car.java" />
         <option value="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/repositories/CarRepository.java" />
         <option value="$PROJECT_DIR$/jules-backend/pom.xml" />
         <option value="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/model/MicroService.java" />
         <option value="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/model/Microservice.java" />
-        <option value="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/MicroServiceController.java" />
         <option value="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/CarController.java" />
         <option value="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/JulesBackendApplication.java" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.ts" />
+        <option value="$PROJECT_DIR$/jules-dashboard/angular.json" />
         <option value="$PROJECT_DIR$/jules-dashboard/src/app/services/httpclient.service.ts" />
+        <option value="$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/MicroServiceController.java" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/nav-header/nav-header.component.html" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/nav-header/nav-header.component.css" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/microservice/microservice.component.ts" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.html" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/app.component.css" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/microservice/microservice.component.html" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/login/login.component.html" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/login/login.component.css" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.css" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/microservice/microservice.component.css" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/styles.css" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/jules-dashboard/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/jules-dashboard/src/app/route-animation.ts" />
       </list>
     </option>
   </component>
@@ -252,8 +157,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="width" value="1279" />
+    <option name="x" value="-18" />
+    <option name="y" value="282" />
+    <option name="width" value="1298" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -262,6 +168,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,78 +180,6 @@
             <path>
               <item name="dream" type="b2602c69:ProjectViewProjectNode" />
               <item name="dream" type="462c0819:PsiDirectoryNode" />
-              <item name="jules-backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dream" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dream" type="462c0819:PsiDirectoryNode" />
-              <item name="jules-backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dream" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dream" type="462c0819:PsiDirectoryNode" />
-              <item name="jules-backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dream" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dream" type="462c0819:PsiDirectoryNode" />
-              <item name="jules-backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dream" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dream" type="462c0819:PsiDirectoryNode" />
-              <item name="jules-backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="julesbackend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dream" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dream" type="462c0819:PsiDirectoryNode" />
-              <item name="jules-backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="julesbackend" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dream" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dream" type="462c0819:PsiDirectoryNode" />
-              <item name="jules-backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="julesbackend" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dream" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dream" type="462c0819:PsiDirectoryNode" />
-              <item name="jules-backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="julesbackend" type="462c0819:PsiDirectoryNode" />
-              <item name="repositories" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dream" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dream" type="462c0819:PsiDirectoryNode" />
-              <item name="jules-backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dream" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dream" type="462c0819:PsiDirectoryNode" />
               <item name="jules-dashboard" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -351,13 +187,18 @@
               <item name="dream" type="462c0819:PsiDirectoryNode" />
               <item name="jules-dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dream" type="462c0819:PsiDirectoryNode" />
+              <item name="jules-dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,7 +219,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/jules-dashboard/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
@@ -433,18 +274,29 @@
       <workItem from="1562901238094" duration="2814000" />
       <workItem from="1562910232725" duration="6954000" />
       <workItem from="1563414038534" duration="596000" />
-      <workItem from="1563414960217" duration="15010000" />
+      <workItem from="1563414960217" duration="33875000" />
+      <workItem from="1563818585281" duration="6029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27465000" />
+    <option name="totallyTimeSpent" value="52359000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="1279" height="777" extended-state="0" />
+    <frame x="-18" y="282" width="1298" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24575587" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24363057" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -452,21 +304,21 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.329429" />
-      <window_info anchor="bottom" id="Java Enterprise" order="1" />
-      <window_info anchor="bottom" id="Spring" order="2" weight="0.3288719" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.24293785" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.49918568" visible="true" weight="0.24087591" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5008143" side_tool="true" weight="0.3276923" />
-      <window_info anchor="bottom" id="TypeScript" order="15" />
+      <window_info anchor="bottom" id="Run" order="1" sideWeight="0.4987874" weight="0.41021898" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49918568" visible="true" weight="0.24087591" />
+      <window_info anchor="bottom" id="TODO" order="3" weight="0.329927" />
+      <window_info anchor="bottom" id="Spring" order="4" weight="0.32846716" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.329927" />
+      <window_info anchor="bottom" id="Java Enterprise" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5012126" side_tool="true" weight="0.41021898" />
+      <window_info anchor="bottom" id="TypeScript" order="15" weight="0.329927" />
       <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -523,6 +375,10 @@
       </list>
     </option>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -531,49 +387,6 @@
             <caret line="1" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/shared/car/car.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -608,28 +421,6 @@
             <element signature="e#430#431#0" expanded="true" />
             <element signature="e#470#471#0" expanded="true" />
             <element signature="e#502#503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/CarController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/MicroServiceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -675,30 +466,209 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/shared/car/car.service.ts" />
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" selection-start-line="10" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="87" column="58" lean-forward="true" selection-start-line="87" selection-start-column="58" selection-end-line="87" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/http/HttpEntity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+          <folding>
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/CarController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="91" column="9" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-backend/src/main/java/com/example/julesbackend/controller/MicroServiceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="97" column="37" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/net/URLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15540">
+          <caret line="1119" column="18" selection-start-line="1119" selection-start-column="18" selection-end-line="1119" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/node_modules/@angular/common/http/src/client.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="2413" column="34" selection-start-line="2413" selection-start-column="25" selection-end-line="2413" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/nav-header/nav-header.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/nav-header/nav-header.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/services/httpclient.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
+        <state relative-caret-position="80">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="27" />
+          <folding>
+            <element signature="n#table#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/microservice/microservice.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/login/login.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/login/login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/microservice/microservice.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/microservice/microservice.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="318">
+          <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
           <folding>
             <element signature="e#0#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/car-list/car-list.component.html">
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="210">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jules-dashboard/src/app/route-animation.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#120#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

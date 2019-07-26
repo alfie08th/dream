@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-microservice',
@@ -7,9 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MicroserviceComponent implements OnInit {
 
-  constructor() { }
 
   ngOnInit() {
+
   }
+
+
 
 }

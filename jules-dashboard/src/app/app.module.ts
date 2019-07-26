@@ -6,21 +6,33 @@ import {AppComponent} from './app.component';
 import {FormsModule} from '@angular/forms';
 import {HttpClientModule} from '@angular/common/http';
 import {CarListComponent} from './car-list/car-list.component';
-import {Routes} from '@angular/router';
+import {RouterModule, Routes} from '@angular/router';
 import { MicroserviceComponent } from './microservice/microservice.component';
+import { LoginComponent } from './login/login.component';
+import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
 
 const routes: Routes = [
-  {path: '', component: CarListComponent},
-  {path: '', component: CarListComponent}
+  // {path: '', component: AppComponent, data: {animation: 'isLeft'}},
+  // {path: 'car-list', component: CarListComponent, data: {animation: 'isLeft'}},
+  // {path: 'login', component: LoginComponent, data: {animation: 'isLeft'}},
+  // {path: 'service', component: MicroserviceComponent, data: {animation: 'isLeft'}}
+
+  {path: '', component: AppComponent, data: {animation: 'fader'}},
+  {path: 'car-list', component: CarListComponent, data: {animation: 'fader'}},
+  {path: 'login', component: LoginComponent, data: {animation: 'fader'}},
+  {path: 'service', component: MicroserviceComponent, data: {animation: 'fader'}}
 ];
 @NgModule({
   declarations: [
     AppComponent,
     CarListComponent,
-    MicroserviceComponent
+    MicroserviceComponent,
+    LoginComponent
   ],
   imports: [
+    RouterModule.forRoot(routes),
     BrowserModule,
+    BrowserAnimationsModule,
     AppRoutingModule,
     FormsModule,
     HttpClientModule

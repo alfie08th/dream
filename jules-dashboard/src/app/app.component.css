@@ -1,0 +1,33 @@
+#div-nav-home-anchor{
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  background: red;
+  text-align: center;
+}
+#img-nav-home-anchor{
+  width: 62.5%;
+  height: 62.5%;
+  background: white;
+  margin-top:20%;
+}
+
+#navigation-main-div{
+  width: 70%;
+  height:40px;
+  background: black;
+  margin: 0 auto;
+  border-radius: 5px;
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+#service-anchor,#login-anchor,#car-anchor {
+  color:white;
+  text-decoration: none;
+  padding: 10px 0 10px 0;
+}
+#service-anchor:hover,#login-anchor:hover,#car-anchor:hover {
+  color:red;
+}
+

@@ -1,0 +1,10 @@
+#carlist-main-div{
+  width: 70%;
+  height:500px;
+  margin: 0 auto;
+  background: rgba(255,0, 0, 0.2);
+}
+
+#carlist-heading{
+  margin: 45px 0 35px 0;
+}
