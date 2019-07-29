@@ -1,14 +1,6 @@
-<nav>
-  <div id="div-nav-home-anchor"><a routerLink="/" routerLinkActive="active"><img id="img-nav-home-anchor"></a></div>
-  <div id="navigation-main-div">
-    <a id="car-anchor" routerLink="/car-list" routerLinkActive="active">Car</a>
-    <a id="service-anchor" routerLink="/service" routerLinkActive="active">Service</a>
-    <a id="login-anchor" routerLink="login" routerLinkActive="active">Login</a>
-</div>
-</nav>
 
-
-<div [@routeAnimations]="prepareRoute(outlet)" >
-  <router-outlet #outlet="outlet"></router-outlet>
-</div>
 <!--https://medium.com/frontend-coach/angular-router-animations-what-they-dont-tell-you-3d2737a7f20b-->
+<app-items></app-items>
+<main [@routerTransition]="getState(o)">
+  <router-outlet #o="outlet"></router-outlet>
+</main>

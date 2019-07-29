@@ -1,12 +1,9 @@
-#login-main-div{
+#error-main-div{
   width: 70%;
   height: 500px;
   margin: 0 auto;
   background: rgba(0,255, 0, 0.1);
 }
-#login-welcome-heading{
-  margin: 45px 0 35px 0;
-}
-#login-sub-heading{
+#error-welcome-heading{
   margin: 45px 0 35px 0;
 }
